@@ -8,4 +8,4 @@ Some visualization techniques were inspired by publicly available tutorials and 
 - [link]
 - [link]
 
-All implementations, experiments, and interpretations in this repository are my own.
+Work in progress...
